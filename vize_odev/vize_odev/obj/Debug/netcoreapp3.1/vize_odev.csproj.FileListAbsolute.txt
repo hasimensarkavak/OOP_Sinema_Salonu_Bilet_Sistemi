@@ -1,0 +1,15 @@
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.exe
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.deps.json
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.runtimeconfig.json
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.runtimeconfig.dev.json
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.dll
+C:\Users\seyma\Desktop\vize_odev\vize_odev\bin\Debug\netcoreapp3.1\vize_odev.pdb
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.csprojAssemblyReference.cache
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.Form1.resources
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.csproj.GenerateResource.cache
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.AssemblyInfoInputs.cache
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.AssemblyInfo.cs
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.csproj.CoreCompileInputs.cache
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.dll
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.pdb
+C:\Users\seyma\Desktop\vize_odev\vize_odev\obj\Debug\netcoreapp3.1\vize_odev.genruntimeconfig.cache
